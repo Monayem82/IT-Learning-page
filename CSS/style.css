@@ -1,0 +1,18 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.text-center-cus{
+    font-weight: 600;
+    font-size: 45px;
+    line-height: 60px;
+}
+.text-center-cuss{
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 38px;
+}
+.img-cus{
+    width: 200px;
+    height: 200px;
+}
